@@ -1,0 +1,17 @@
+.navbar {
+    display: flex;
+    background-Color: pink;
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
+.listas{
+    display: flex;
+    margin-left: 5rem;
+}
+
+li{
+    margin-left: 2rem;
+}
